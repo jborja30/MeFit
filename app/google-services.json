@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1095239517358",
+    "firebase_url": "https://mefit-13d1f.firebaseio.com",
+    "project_id": "mefit-13d1f",
+    "storage_bucket": "mefit-13d1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095239517358:android:bab38ab42e809db6",
+        "android_client_info": {
+          "package_name": "com.example.jeromeborja.mefit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095239517358-qllqpna1t3t91f066gh1c9ja5goknade.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jeromeborja.mefit",
+            "certificate_hash": "f5ab4da0aa0f58f573db37e51ed4fc94b5c8907a"
+          }
+        },
+        {
+          "client_id": "1095239517358-56vh8mrl0j3320a28cej5tgk72tc8im0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClOfvk9xkwpzExKuQr2aUebfWH8txEkas"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095239517358-56vh8mrl0j3320a28cej5tgk72tc8im0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
